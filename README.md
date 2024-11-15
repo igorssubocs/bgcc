@@ -32,6 +32,5 @@ cd bgcc
 
 You can connect with me on social media:
 
-- :bird: [X / Twitter](https://x.com/igorssubocs)
 - :mortar_board: [LinkedIn](https://www.linkedin.com/in/igors-subocs-07736a337/)
 - :octocat: [GitHub](https://github.com/igorssubocs)
